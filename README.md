@@ -10,6 +10,15 @@ You're probably on my profile because of r2modman. Welcome anyway!
   - Metal, Rock, Jazz, Pop, Punk, RnB, and more
 - Love theatre shows, especially musicals
 
+#### Known languages
+![My Skills](https://skillicons.dev/icons?i=go,java,ts,js,cs,lua)
+
+#### Frontend tooling
+![My Skills](https://skillicons.dev/icons?i=scss,svelte,vue,css,react,electron)
+
+#### Other tools/technologies
+![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,spring)
+
 ### Key projects
 
 #### [r2modman(Plus)](https://github.com/ebkr/r2modmanPlus)
