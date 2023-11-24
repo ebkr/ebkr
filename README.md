@@ -19,7 +19,7 @@ You're probably on my profile because of r2modman. Welcome anyway!
 #### Other tools/technologies
 ![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,spring)
 
-### Key projects
+### Key projects 🔑
 
 #### [r2modman(Plus)](https://github.com/ebkr/r2modmanPlus)
 
@@ -42,7 +42,7 @@ The project downloaded and repackaged mods from the BoneTome site based on the c
 
 Over 100 mods were repackaged by other authors using this tool.
 
-### Stats
+### Stats 📊
 _Using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 ![ebkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebkr&show_icons=true)
