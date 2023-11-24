@@ -9,6 +9,7 @@ You're probably on my profile because of r2modman. Welcome anyway!
 - Big fan of live music for a range of genres
   - Metal, Rock, Jazz, Pop, Punk, RnB, and more
 - Love theatre shows, especially musicals
+- Stereotypically enjoy climbing
 
 #### Known languages
 ![My Skills](https://skillicons.dev/icons?i=go,java,ts,js,cs,lua)
