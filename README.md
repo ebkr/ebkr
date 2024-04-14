@@ -2,6 +2,11 @@
 
 You're probably on my profile because of r2modman. Welcome anyway!
 
+### A short statement
+If you like my work, and would like to donate, consider putting that money to a charity that does some good.
+
+I'd personally recommend the [Marine Conservation Society](https://www.mcsuk.org/make-a-donation/) however any charity will do!
+
 ### A little bit about me ℹ️
 
 - Graduated with a 1st class honours in Computer Science
