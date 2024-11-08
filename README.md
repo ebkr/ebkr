@@ -34,7 +34,7 @@ My primary project is r2modmanPlus, a mod manager for Risk of Rain 2, that I had
 It uses TypeScript/Vue/Electron and was designed to be an entry point into modding games without having to have much, if any, computer knowledge prior.
 The design decisions try to conform to [Nielsen's Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) wherever possible to ensure that the software is easy to use.
 
-The overall project has been in development since 2019 and remains actively developed as of 2023-11-24.
+The overall project has been in development since 2019 and remains actively developed as of 2024-11-08.
 
 At the time of writing, the average monthly user count is approximately 80k.
 
