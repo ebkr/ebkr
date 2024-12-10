@@ -1,7 +1,5 @@
 ### Hi, I'm Cade 👋
 
-You're probably on my profile because of r2modman. Welcome anyway!
-
 ### A short statement
 If you like my work, and would like to donate, consider putting that money to a charity that does some good.
 
