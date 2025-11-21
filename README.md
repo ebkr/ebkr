@@ -27,7 +27,7 @@ I'd personally recommend the [Marine Conservation Society](https://www.mcsuk.org
 
 #### [r2modman(Plus)](https://github.com/ebkr/r2modmanPlus)
 
-My primary project is r2modmanPlus, a mod manager for Risk of Rain 2, that I had made created during my second year of university.
+My primary project is r2modmanPlus, a mod manager for Risk of Rain 2, that I had created during my second year of university.
 
 It uses TypeScript/Vue/Electron and was designed to be an entry point into modding games without having to have much, if any, computer knowledge prior.
 The design decisions try to conform to [Nielsen's Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) wherever possible to ensure that the software is easy to use.
